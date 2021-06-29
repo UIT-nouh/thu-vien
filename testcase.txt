@@ -1,0 +1,98 @@
+//nhap nguoi 
+1
+1
+2
+dao minh
+tuan
+1
+1
+dang anh
+tien
+1
+1
+
+// nhap dau sach
+3
+3
+1
+aaa
+10
+2002
+Dao Minh Tuan
+khoa hoc
+2
+20
+0
+20
+21
+0
+21
+2
+bbb
+15
+2003
+Dang Anh Tien
+thieu nhi
+3
+30
+0
+30
+31
+0
+31
+32
+0
+32
+3
+ccc
+50
+2005
+huynh khanh nhan
+kiem hiep
+1
+10
+0
+10
+
+// muon sach
+6
+10
+3
+2021
+tuan
+3
+aaa
+bbb
+bbb
+
+// liet ke
+8
+tuan
+
+//tra sach
+7
+tuan
+aaa
+
+//9 in danh sach
+6
+10
+3
+2021
+tuan
+1
+aaa
+6
+3
+3
+2021
+tuan
+1
+bbb
+6
+2
+3
+2021
+tien
+1
+bbb
